@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\LargestAmong3Numberd\LargestAmong3Numbers\LargestAmong3Numbers\bin\Debug\LargestAmong3Numbers.exe.config
+C:\Users\Admin\Documents\LargestAmong3Numberd\LargestAmong3Numbers\LargestAmong3Numbers\bin\Debug\LargestAmong3Numbers.exe
+C:\Users\Admin\Documents\LargestAmong3Numberd\LargestAmong3Numbers\LargestAmong3Numbers\bin\Debug\LargestAmong3Numbers.pdb
+C:\Users\Admin\Documents\LargestAmong3Numberd\LargestAmong3Numbers\LargestAmong3Numbers\obj\Debug\LargestAmong3Numbers.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\LargestAmong3Numberd\LargestAmong3Numbers\LargestAmong3Numbers\obj\Debug\LargestAmong3Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\LargestAmong3Numberd\LargestAmong3Numbers\LargestAmong3Numbers\obj\Debug\LargestAmong3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LargestAmong3Numberd\LargestAmong3Numbers\LargestAmong3Numbers\obj\Debug\LargestAmong3Numbers.exe
+C:\Users\Admin\Documents\LargestAmong3Numberd\LargestAmong3Numbers\LargestAmong3Numbers\obj\Debug\LargestAmong3Numbers.pdb
